@@ -6,9 +6,9 @@ Hello everyone, this repository shares files to help you run macOS on Windows. �
 
 ### 📥 Download Links
 
-* 💿 **macOS 15 Sequoia ISO:** [Download Here](https://shrinkme.ink/your-link-sequoia)
-* ⚙️ **VMware Workstation Pro:** [Download Here](https://shrinkme.ink/your-link-vmware)
-* 🛠️ **Darwin.iso (VMware Tools):** [Download Here](https://shrinkme.ink/your-link-darwin)
+* 💿 **macOS 15 Sequoia ISO:** [Download Here](https://shrinkme.click/macos15)
+* ⚙️ **VMware Workstation Pro:** [Download Here](https://shrinkme.click/VMware)
+* 🛠️ **Darwin.iso (VMware Tools):** [Download Here](https://shrinkme.click/darwin-iso)
 
 ---
 
