@@ -27,3 +27,45 @@ If you encounter any issues during the installation process, need setup assistan
 
 * 💬 **Discord Support Server:** [Join Support Community](https://discord.gg/d5YGCMtHX)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="418" height="480" alt="VietnamWhatGIF" src="https://github.com/user-attachments/assets/93299659-6e47-4348-b509-f4124e8f5e89" />
+
