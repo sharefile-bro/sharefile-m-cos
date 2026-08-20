@@ -19,3 +19,11 @@ If you find this project useful and it saved you time, consider supporting me! A
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/ilovejavascrip)
 
 * **PayPal:** [https://paypal.me/ilovejavascrip](https://paypal.me/ilovejavascrip)
+* ---
+
+### 💬 Need Help? / Contact Support
+
+If you encounter any issues during the installation process, need setup assistance, or find broken links, join our Discord community for support:
+
+* 💬 **Discord Support Server:** [Join Support Community](https://discord.gg/d5YGCMtHX)
+* 🐞 **Report Issues:** [Create GitHub Issue](../../issues)
