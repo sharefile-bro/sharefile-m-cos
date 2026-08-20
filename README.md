@@ -67,5 +67,6 @@ If you encounter any issues during the installation process, need setup assistan
 
 
 
-<img width="418" height="480" alt="VietnamWhatGIF" src="https://github.com/user-attachments/assets/93299659-6e47-4348-b509-f4124e8f5e89" />
+<img width="480" height="384" alt="VietNamPeaceGIFbyPITO" src="https://github.com/user-attachments/assets/55cd99c9-8d6d-45d6-98ae-b93717964fc4" />
+
 
