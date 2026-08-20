@@ -26,4 +26,4 @@ If you find this project useful and it saved you time, consider supporting me! A
 If you encounter any issues during the installation process, need setup assistance, or find broken links, join our Discord community for support:
 
 * 💬 **Discord Support Server:** [Join Support Community](https://discord.gg/d5YGCMtHX)
-* 🐞 **Report Issues:** [Create GitHub Issue](../../issues)
+
